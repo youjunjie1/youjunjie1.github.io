@@ -2,26 +2,20 @@ a {
   color: green;
 }
 
-<body>box{
+body{
   flex-direction: column;
 }
 
-<main>box{
+main{
   display: flex;
-}
-box{
   flex: auto;
 }
 
-<aside>box{
+aside{
   flex: 1;
 }
-</aside>
 
-<article>box{
+article{
   flex: 3;
-}</article>
+}
 
-</main>
-
-</body>
