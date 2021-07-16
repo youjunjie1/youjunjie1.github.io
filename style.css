@@ -1,3 +1,27 @@
 a {
   color: green;
 }
+
+<body>.box{
+  flex-direction: column;
+}
+
+<main>.box{
+  display: flex;
+}
+.box{
+  flex: auto;
+}
+
+<aside>.box{
+  flex: 1;
+}
+</aside>
+
+<article>.box{
+  flex: 3;
+}</article>
+
+</main>
+
+</body>
