@@ -2,23 +2,23 @@ a {
   color: green;
 }
 
-<body>.box{
+<body>box{
   flex-direction: column;
 }
 
-<main>.box{
+<main>box{
   display: flex;
 }
-.box{
+box{
   flex: auto;
 }
 
-<aside>.box{
+<aside>box{
   flex: 1;
 }
 </aside>
 
-<article>.box{
+<article>box{
   flex: 3;
 }</article>
 
