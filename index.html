@@ -10,6 +10,7 @@
     <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <script src="thumbnail.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
     
 </head>
@@ -49,6 +50,17 @@
 </article>
 
 </main>
+    
+    
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '4nO6VnSeKazjJ4cjGtOaoLif-MdYXbMMI',
+            appKey: 'eC6dIHqeCmtpsCt9nWeeoNkY'
+        })
+    </script>
+    
     
 <footer>
 by <a href="http://www.zhihu.com/people/qing-qing-qing-qing-qing-qing-36" target="_blank">CGTN</a> for <a href="https://www.adalab.cn" target="_blank">Adalab</a>
