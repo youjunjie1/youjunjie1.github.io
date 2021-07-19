@@ -9,6 +9,7 @@ body{
 main{
   display: flex;
   flex: auto;
+  margin-top:200px;
 }
 
 aside{
