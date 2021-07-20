@@ -15,6 +15,7 @@ main{
 aside{
   flex: 1;
   margin-top:86px;
+  margin-left:30px;
 }
 
 article{
